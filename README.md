@@ -1,5 +1,5 @@
 # prediccion_sismos
-# 🌍 Sistema de Predicción de Sismos con Redes Neuronales (CNN y LSTM)
+# Sistema de Predicción de Sismos con Redes Neuronales
 
 Este proyecto consiste en el entrenamiento de dos modelos de deep learning (CNN y LSTM) para la predicción del comportamiento sísmico. Utiliza datos reales recolectados por el CENAIS y forma parte del informe de Práctica Laboral del segundo año de Ingeniería Informática en la Universidad de Oriente.
 
