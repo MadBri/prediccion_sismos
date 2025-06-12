@@ -7,7 +7,7 @@ from tensorflow.keras.layers import Dense, Conv1D, MaxPooling1D, Flatten, LSTM, 
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
 
-# Cargar datos
+# Cargar los datos
 def cargar_datos(ruta_csv):
     df = pd.read_csv(ruta_csv)
     return df
